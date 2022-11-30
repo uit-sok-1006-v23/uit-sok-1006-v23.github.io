@@ -1,4 +1,4 @@
-{% include navbar_closed.html %}  {% include top-box.html %} 
+
 
 ## Kursplan  
 
