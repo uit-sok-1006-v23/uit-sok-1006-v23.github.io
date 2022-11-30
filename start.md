@@ -1,29 +1,25 @@
-
-
+{% include navbar_closed.html %}  {% include top-box.html %} {% include_relative start.md %}
 ## Kursplan  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+Kursplanen inneholder informasjon om undervisning og innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
-
-
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+- [Kursplanen](kursplan.md){:target="blank"}
+- [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=23v&fag=&module[]=SOK-1006-1#week-48){:target="blank"}
 
 
 ## Kursbeskrivelse 
 
+Kurset tas normalt i andre semester, og teller 10 studiepoeng.  
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=785831){:target="blank"}   
 
-Kurset består av ulike interessante tema  
 
 
 ## Faglærerinfo  
+
 - [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
 
 
+ 
 
 ## Administrative spørsmål
 
@@ -32,21 +28,22 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum  
 
-### Pensum til forelesningene
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
+
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8768094470002205?institute=47BIBSYS_UBTO&auth=SAML){:target="blank"}  
+
+
 
 
 
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/25566){:target="blank"}.
 
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset har mappeevaluering. Mappen inneholder to skriftlige oppgaver og skrives individuelt. Frister, oppgaver og ressurser finnes i [kursplanen](kursplan.md){:target="blank"}. 
 
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
-
+For å få mappen vurdert må kandidaten bestå en muntlig presentasjon, samt bestå minst 6 av 9 arbeidskrav som er gitt i tilknytning til undervisning på emnet. Tidspunkt for utdeling av arbeidskrav annonseres ikke på forhånd. Alle oppgaver løses individuelt.   
