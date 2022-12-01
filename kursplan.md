@@ -15,7 +15,7 @@ Jupyter notatblokker til undervisningssesjoner finnees her.
 |18.01 | 3 | Tilbuds- og etterspørselselastisitet: Lineære funksjoner |Kap 3.6   |
 |23.01 | 4 | Tilbuds- og etterspørselsfunksjoner med konstant elastisitet |    |
 |25.01 | 5 | Økonomisk politikk: avgifter | Kap 3.7|
-|30.01| 6 |          |         |
+|30.01| 6 | Økonomisk politikk: prisregulering         | Kap 3.7    |
 |01.02 | 7 |   |   |
 |08.02 | 8|    |    |
 |13.02 | 9 |   |    |
