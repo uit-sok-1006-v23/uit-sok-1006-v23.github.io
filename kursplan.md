@@ -1,11 +1,11 @@
 {% include navbar_open.html %}{% include top-box.html %}
 
-#  Kursplan SOK-1006 Vår 2023
+##  Kursplan
 
      
 Pensumbok "Innføring i mikroøkonomi", 3. utgave, Andreassen, Bredesen & Thøgersen.      
 
-Jupyter notatblokker til undervisningssesjoner finnees her.
+Jupyter notatblokker til undervisningssesjoner finnes her.
 
 
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
