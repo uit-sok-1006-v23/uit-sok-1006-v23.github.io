@@ -31,7 +31,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8768094470002205?institute=47BIBSYS_UBTO&auth=SAML){:target="blank"}  
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/9939933740002205?auth=SAML){:target="blank"}  
 
 
 
@@ -45,6 +45,6 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/cou
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Mappen inneholder to skriftlige oppgaver og skrives individuelt. Frister, oppgaver og ressurser finnes i [kursplanen](kursplan.md){:target="blank"}. 
+Kurset har mappeevaluering. Mappen inneholder to skriftlige oppgaver og skrives individuelt. Frister, oppgaver og ressurser finnes i [kursplanen](kursplan.html){:target="blank"}. 
 
 For å få mappen vurdert må kandidaten bestå en muntlig presentasjon, samt bestå minst 6 av 9 arbeidskrav som er gitt i tilknytning til undervisning på emnet. Tidspunkt for utdeling av arbeidskrav annonseres ikke på forhånd. Alle oppgaver løses individuelt.   
