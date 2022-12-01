@@ -23,7 +23,7 @@ linkfarge: f2a900 #Farge linker
 
 uitlogo: ./assets/img/uit.png
 #Skal stå tom:
-title: None
+title: ''
 
 
 
