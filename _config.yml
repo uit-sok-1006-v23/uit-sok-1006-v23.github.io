@@ -1,6 +1,6 @@
 
 #----------Instillinger: Boks på toppen av side----------------------------------------------------------------------
-title: Sok-1016 Mikroøkonomi - Økonomisk atferd, markeder og priser #Emnetittel
+navn: Sok-1016 Mikroøkonomi - Økonomisk atferd, markeder og priser #Emnetittel
 semester: Vår 2023 
 image: tema.jpg
 
@@ -22,7 +22,8 @@ sekundaerfarge: #Farge generell tekst
 linkfarge: f2a900 #Farge linker
 
 uitlogo: ./assets/img/uit.png
-
+#Skal stå tom:
+title: None
 
 
 
