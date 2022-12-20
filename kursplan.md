@@ -16,7 +16,7 @@ Jupyter notatblokker til undervisningssesjoner finnes her.
 |23.01 | 4 | Tilbuds- og etterspørselsfunksjoner med konstant elastisitet |    |
 |25.01 | 5 | Økonomisk politikk: avgifter | Kap 3.7|
 |30.01| 6 | Økonomisk politikk: prisregulering         | Kap 3.7    |
-|01.02 | 7 |   |   |
+|01.02 | 7 |Produksjon: Teknologi   |Kap 4.1-4.6   |
 |08.02 | 8|    |    |
 |13.02 | 9 |   |    |
 |20.02 | 10 |   |    |
