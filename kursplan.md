@@ -17,7 +17,7 @@ Jupyter notatblokker til undervisningssesjoner finnes her.
 |25.01 | 5 | Økonomisk politikk: avgifter | Kap 3.7|
 |30.01| 6 | Økonomisk politikk: prisregulering         | Kap 3.7    |
 |01.02 | 7 |Produksjon: Teknologi   |Kap 4.1-4.6   |
-|08.02 | 8|    |    |
+|08.02 | 8| Produksjonsteknologi og skalaegenskaper    |Kap 4.7    |
 |13.02 | 9 |   |    |
 |20.02 | 10 |   |    |
 |22.02|  11 |   |    |
