@@ -18,8 +18,8 @@ Jupyter notatblokker til undervisningssesjoner finnes her.
 |30.01| 6 | Økonomisk politikk: prisregulering         | Kap 3.7    |
 |01.02 | 7 |Produksjon: Teknologi   |Kap 4.1-4.6   |
 |08.02 | 8| Produksjonsteknologi og skalaegenskaper    |Kap 4.7    |
-|13.02 | 9 |   |    |
-|20.02 | 10 |   |    |
+|13.02 | 9 |Bedriftens inntekter og kostnader   |Kap 5    |
+|20.02 | 10 |Mer om kostnadsminimering   |Kap 5    |
 |22.02|  11 |   |    |
 |27.02 | 12 |   |    |
 |01.03 | 13 |    |   |
