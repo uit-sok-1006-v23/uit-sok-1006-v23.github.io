@@ -33,7 +33,7 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 |24.04 | 19 |(Ekstra)   |   |
 |24.04| Utdeling| Mappeoppgave 2| Oppgave kommer her|
 |Uke 18/19| **Frist**| Muntlig presentasjon| Tidspunkt og oppgave kommer her|
-|05.06|**Frist**|Innlevering mappeoppgave 2| Wiseflow|
+|05.06|**Frist**|Innlevering mappeoppgave 2| Wiseflow kl 13.00|
 
 
 
