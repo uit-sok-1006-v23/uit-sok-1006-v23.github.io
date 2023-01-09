@@ -18,7 +18,7 @@ Kurset tas normalt i andre semester, og teller 10 studiepoeng.
 ## Faglærerinfo  
 
 - [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Erlend Sørra]<erlend.sorra@uit.no>
+- Erlend Sørra (Studentassistent) <erlend.sorra@uit.no>
 
 
  
